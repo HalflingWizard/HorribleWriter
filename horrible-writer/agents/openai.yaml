@@ -1,0 +1,4 @@
+interface:
+  display_name: "Horrible Writer"
+  short_description: "Make dull science weirdly fun"
+  default_prompt: "Use $horrible-writer to rewrite this scientific text so it is clearer, more engaging, and still complete."
