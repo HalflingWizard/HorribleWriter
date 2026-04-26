@@ -1,4 +1,6 @@
 interface:
   display_name: "Horrible Writer"
   short_description: "Make dull science weirdly fun"
+  icon_small: "./assets/horrible-writer-icon.png"
+  icon_large: "./assets/horrible-writer-banner.png"
   default_prompt: "Use $horrible-writer to rewrite this scientific text so it is clearer, more engaging, and still complete."

@@ -1,3 +1,5 @@
+![Horrible Writer banner](assets/horrible-writer-banner.png)
+
 # Horrible Writer
 
 Feed it dull, complicated science, and it will turn it into something weirdly fun.
